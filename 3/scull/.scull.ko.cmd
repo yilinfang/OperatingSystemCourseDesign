@@ -1,1 +1,0 @@
-cmd_/home/leo/OperatingSystemCourseDesign/3/scull/scull.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/leo/OperatingSystemCourseDesign/3/scull/scull.ko /home/leo/OperatingSystemCourseDesign/3/scull/scull.o /home/leo/OperatingSystemCourseDesign/3/scull/scull.mod.o ;  true
